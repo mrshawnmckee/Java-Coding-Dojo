@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.table {
+	width: 50%;
+	text-align: left;
+	border: 10px solid pink;
+
+
+}
+td, th{
+	border-bottom: 1px solid pink;
+}
