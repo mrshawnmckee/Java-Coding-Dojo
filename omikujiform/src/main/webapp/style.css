@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+button {
+
+	background-color: blue;
+	color: white;
+	box-shadow: 2px 2px black;
+	
+}
+.formdiv {
+
+	padding: 10px;
+	margin: 10px;
+	border: 2px solid black;
+	width:30em;
+}
+.num{
+	width: 3em;
+}
+.textbox{
+	width:20em;
+	height:8em;
+}
