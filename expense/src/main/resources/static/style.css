@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+h1, h2 {
+	color:blue;
+}
+
+.error {
+	color:red;
+}
+.tbl {
+	border: 2px solid black;
+}
+
+.col1 {
+	text-align: center;
+	border-right: 2px solid black;
+	width: 30%;
+}
+
+.col2 {
+	text-align: center;
+	border-right: 2px solid black;
+	width: 25%;
+}
+
+.col3 {
+	text-align: center;
+	border-right: 2px solid black;
+	width: 25%;
+}
+
+.col4 {
+
+	text-align: center;
+	width:20%;
+	
+}
+
+.row1 {
+	background-color: lightgrey;
+}
+
+.btn {
+	background-color: steelblue;
+	color:white;
+	box-shadow: 2px 2px black;
+}
+
+.deletebtn {
+	background-color: red;
+	color: #fff;
+	margin: 3px 3px 3px 5px;
+	transform: scale(0.98);
+	box-shadow: 2px 2px black;
+}
